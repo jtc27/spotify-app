@@ -1,11 +1,13 @@
  
 import './App.css';
+import Login from './Login';
 
 function App() {
   return (
     //BEM
     <div className="App">
-      <h1>Spotify</h1>
+ 
+      <Login/>
 
       {/* Spotify logo */}
      {/* login with spotify button */}
